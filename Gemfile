@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "rack"
 gem "sinatra"
-gem "activesupport"
+gem "activesupport", ">= 6.1.7.3"
 gem "twilio-ruby"
 
 group :test do
