@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "rack"
+gem "rack", ">= 2.2.12"
 gem "sinatra"
 gem "activesupport"
 gem "twilio-ruby"
