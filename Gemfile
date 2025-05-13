@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-gem "rack"
-gem "sinatra"
+gem "rack", ">= 2.2.14"
+gem "sinatra", ">= 4.0.0"
 gem "activesupport"
 gem "twilio-ruby"
 
